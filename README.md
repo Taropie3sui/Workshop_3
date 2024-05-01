@@ -54,4 +54,4 @@ Pixels[R,G,B, A…..]
 To find the values of a given pixel on the screen:
 (X value+ y Baur * width) *4
 
-URL: https://taropie3sui.github.io/Workshop_3_/
+URL: [https://taropie3sui.github.io/Workshop_3_/](https://taropie3sui.github.io/Workshop_3_/)
